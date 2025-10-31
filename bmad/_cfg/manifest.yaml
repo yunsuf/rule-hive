@@ -1,0 +1,12 @@
+installation:
+  version: 6.0.0-alpha.3
+  installDate: '2025-10-31T09:54:07.988Z'
+  lastUpdated: '2025-10-31T09:54:07.988Z'
+modules:
+  - core
+  - bmb
+  - bmm
+  - cis
+ides:
+  - gemini
+  - windsurf
